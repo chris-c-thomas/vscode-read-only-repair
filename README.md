@@ -1,4 +1,4 @@
-# VS Code Read-Only Repair Script
+# VS Code Read-Only Repair
 
 VS Code & VS Code Insiders update by modifying their own `.app` bundle in place. Occasionally, it's possible that these updates fail with a “read-only mode” error. This macOS utility script diagnoses and fixes the common causes.
 
